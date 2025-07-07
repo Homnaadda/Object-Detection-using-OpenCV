@@ -1,6 +1,6 @@
 # Real-Time Object Detection with OpenCV and MobileNet SSD
 
-![Object Detection Demo](Img/person%20detection.png)
+
 
 ## 🎯 Overview
 
