@@ -99,7 +99,7 @@ The system can detect the following 20 object classes:
 - Confidence scores for each detection
 - Color-coded labels for different object classes
 
-![Person and Bottle Detection](Img/Person%20and%20bottel%20detection.png)
+
 
 ### 2. Performance Statistics
 - Current and average FPS
@@ -116,7 +116,7 @@ The system can detect the following 20 object classes:
 - Timestamped filenames
 - Includes all visual overlays
 
-![Cat Detection](Img/cat%20image%20detection.png)
+
 
 #### Video Recordings (`recordings/`)
 - Full detection sessions with overlays
